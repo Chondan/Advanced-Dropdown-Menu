@@ -1,6 +1,7 @@
 # Lessons Learned
 
 > From this tutorial: [Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners][tutorial]
+
 [tutorial]: <https://www.youtube.com/watch?v=IF6k0uZuypA>
 
 ## CSS
@@ -29,5 +30,6 @@ import { AiOutLinePlus } from 'react-icons/ai';
 ```JavaScript
  import { CSSTransition } from 'react-transition-group';
 ```
+## Go to application
 
-> Go to application: https://chondan.github.io/Advanced-Dropdown-Menu/#
+https://chondan.github.io/Advanced-Dropdown-Menu/#
