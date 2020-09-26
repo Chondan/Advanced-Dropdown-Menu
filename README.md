@@ -1,6 +1,6 @@
 # Lessons Learned
 
-> From this tutorial: [Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners](tutorial)
+> From this tutorial: [Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners][tutorial]
 [tutorial]: <https://www.youtube.com/watch?v=IF6k0uZuypA>
 
 ## CSS
