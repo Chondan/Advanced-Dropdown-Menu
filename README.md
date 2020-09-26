@@ -32,4 +32,4 @@ import { AiOutLinePlus } from 'react-icons/ai';
 ```
 ## Go to application
 
-https://chondan.github.io/Advanced-Dropdown-Menu/#
+https://chondan.github.io/Advanced-Dropdown-Menu/
